@@ -51,7 +51,7 @@ JuliaTokai x jl.dev
 
 ## 本日の発表
 
-+ TsuMakoto: [Julia v1.7 - マルチスレッドとAtomic変数について](zatsuoki-doc.netlify.app/juliatokaianddev/)
++ TsuMakoto: [Julia v1.7 - マルチスレッドとAtomic変数について](https://zatsuoki-doc.netlify.app/juliatokaianddev/)
 + antimon2: [Julia v1.6 で プロパティ分割代入したい](https://hackmd.io/@antimon2/H15JVgPqF)
 + takuizum: Windowsのjuliaupを使ってお手軽julia体験
 + ごまふあざらし: [REPL で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/repl/build/#1)
