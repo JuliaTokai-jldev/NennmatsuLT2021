@@ -53,6 +53,6 @@ JuliaTokai x jl.dev
 
 + TsuMakoto: [Julia v1.7 - マルチスレッドとAtomic変数について](https://zatsuoki-doc.netlify.app/juliatokaianddev/)
 + antimon2: [Julia v1.6 で プロパティ分割代入したい](https://hackmd.io/@antimon2/H15JVgPqF)
-+ takuizum: Windowsのjuliaupを使ってお手軽julia体験
++ takuizum: [Windowsのjuliaupを使ってお手軽julia体験](https://github.com/takuizum/NennmatsuLT2021/blob/main/2021jldevTL%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
 + ごまふあざらし: [REPL で遊ぼう](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/repl/build/#1)
 + hyrodium: [Juliaの微分法いろいろ](https://hackmd.io/@hyrodium/rJrJ23j9t#/1)
